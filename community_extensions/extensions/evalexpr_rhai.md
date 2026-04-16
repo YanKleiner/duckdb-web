@@ -21,7 +21,7 @@ extension:
 repo:
   andium: f4493ade6aa592402b1b80a3eec002d94254b5e9
   github: query-farm/evalexpr_rhai
-  ref: c00bfae40225e39c66415b3bc5d8dcd64130b20f
+  ref: 87d9d5c2e6e78d684223a78ddb28c33e14124f8e
 
 extension_star_count: 25
 extension_star_count_pretty: 25
